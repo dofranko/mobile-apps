@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">L3Z1-4</string>
+    <string-array name="ImportanceList">
+        <item>Brak</item>
+        <item>Niski</item>
+        <item>Średni</item>
+        <item>Wysoki</item>
+
+    </string-array>
+    <string-array name="CategoryList">
+        <item>Ogólne</item>
+        <item>Sport</item>
+        <item>Nauka</item>
+        <item>Zakupy</item>
+        <item>Biznes</item>
+    </string-array>
+</resources>

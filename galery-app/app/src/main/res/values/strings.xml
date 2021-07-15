@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">L4Z2</string>
+    <string-array name="descriptions">
+        <item>img01:Meow</item>
+        <item>img02:This large adult cat is male.  He has a short chocolate point coat.  He has a short, narrow face and is quite heavy.  He will eat almost anything in sight, is very excitable, and is very friendly.</item>
+        <item>img03:This average-sized young cat is female.  She has a medium-length chocolate mink coat.  She has a medium-length, average-width face and is somewhat thin.  She is especially fond of chicken, is a bit lazy, and is very shy.</item>
+        <item>img04:This average-sized young cat is female.  She has a long black coat with a white chest.  She has a medium-length, broad face and is of average weight.  She is a picky eater, is a bit lazy, and will jump on any available lap.</item>
+        <item>img05:This small middle-aged cat is female.  She has a medium-length cinnamon point coat.  She has a medium-length, narrow face and is of average weight.  She is especially fond of beef, pounces anything that moves, and is very shy.</item>
+        <item>img06:This small adult cat is male.  He has a short gray tabby coat.  He has a short, narrow face and is somewhat thin.  He will eat almost anything in sight, is very playful, and is cautious around strangers.</item>
+        <item>img07:This small middle-aged cat is male.  He has a short white coat with a lilac tabby hood and tail.  He has a medium-length, narrow face and is fairly muscular.  He will eat almost anything in sight, pounces anything that moves, and is very shy.</item>
+        <item>img08:This large adult cat is male.  He has a medium-length lilac mink coat with a white underbody.  He has a short, average-width face and is fairly muscular.  He is especially fond of beef, is very lazy, and is cautious around strangers.</item>
+        <item>img09:This small adult cat is female.  She has a short cream sepia coat.  She has a short, broad face and is quite muscular.  She is a picky eater, is a bit excitable, and will jump on any available lap.</item>
+        <item>img10:This large adult cat is male.  He has a short fawn cinchilla coat with white legs and chin.  He has a short, narrow face and is of average weight.  He is especially fond of beef, pounces anything that moves, and is cautious around strangers.</item>
+        <item>img11:This average-sized adult cat is male.  He has a medium-length seal mink coat with a white underbody.  He has a long, average-width face and is somewhat thin.  He will eat almost anything in sight, is a bit excitable, and is very friendly.</item>
+        <item>img12:This average-sized adult cat is female.  She has a medium-length cinnamon tabby coat with white toes and underbody.  She has a medium-length, average-width face and is somewhat thin.  She is a picky eater, is very lazy, and prefers to be left alone.</item>
+        <item>img13:This average-sized middle-aged cat is male.  He has a medium-length white coat with a blue tabby spots of assorted shapes and sizes.  He has a medium-length, narrow face and is of average weight.  He will eat almost anything in sight, is very lazy, and is very friendly.</item>
+        <item>img14:This large adult cat is male.  He has a short seal tabby point coat.  He has a short, narrow face and is a bit pudgy.  He is especially fond of chicken, is a bit excitable, and is very shy.</item>
+        <item>img15:This small old cat is male.  He has a medium-length white coat.  He has a medium-length, average-width face and is of average weight.  He is especially fond of beef, is a bit lazy, and is very friendly.</item>
+        <item>img16:This large old cat is male.  He has a short blue sepia coat.  He has a long, narrow face and is somewhat thin.  He is especially fond of fish, is very playful, and is very friendly.</item>
+        <item>img17:This small adult cat is female.  She has a medium-length seal point coat with white toes and locket.  She has a short, narrow face and is fairly muscular.  She is especially fond of chicken, pounces anything that moves, and will jump on any available lap.</item>
+        <item>img18:This small adult cat is male.  He has a short white coat with a fawn cinchilla spots of assorted shapes and sizes.  He has a short, average-width face and is fairly muscular.  He is especially fond of chicken, is very playful, and will jump on any available lap.</item>
+        <item>img19:This average-sized adult cat is male.  He has a medium-length white coat with small flame tabby point spots.  He has a medium-length, narrow face and is somewhat thin.  He is especially fond of beef, is a bit lazy, and prefers to be left alone.</item>
+        <item>img20:This large adult cat is female.  She has a medium-length white coat.  She has a medium-length, narrow face and is fairly muscular.  She is especially fond of chicken, is a bit excitable, and will jump on any available lap.</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
